@@ -5,14 +5,14 @@ Just to see how will synch work
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hello World</title>
+    <title>Hello Crypto World</title>
 </head>
 <body>
     <h1>Hello World!</h1>
     <p>I can code! 🚀</p>
     
     <script>
-        console.log("Hello World - I can code!");
+        console.log("Hello Crypto World - I can code!");
     </script>
 </body>
 </html>
